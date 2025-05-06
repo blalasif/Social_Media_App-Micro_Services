@@ -1,0 +1,19 @@
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-05T15:23:36.228Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-05T15:27:29.921Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-05T15:27:31.340Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-05T15:27:32.105Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-05T15:27:33.012Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-05T15:29:03.607Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:29:54.372Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:31:35.506Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:31:50.811Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:31:52.988Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:31:55.584Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:31:58.698Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:32:43.543Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-05T15:33:53.671Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-05T15:34:22.818Z"}
+{"level":"error","message":"Proxy Error: read ECONNRESET","service":"api-gateway","timestamp":"2025-05-06T14:11:15.477Z"}
+{"level":"error","message":"Proxy Error: read ECONNRESET","service":"api-gateway","timestamp":"2025-05-06T14:13:35.607Z"}
+{"level":"error","message":"Proxy Error: read ECONNRESET","service":"api-gateway","timestamp":"2025-05-06T14:13:58.127Z"}
+{"level":"error","message":"Proxy Error: read ECONNRESET","service":"api-gateway","timestamp":"2025-05-06T14:15:45.367Z"}

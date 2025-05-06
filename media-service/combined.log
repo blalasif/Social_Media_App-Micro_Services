@@ -1,0 +1,2 @@
+{"level":"info","message":"Media  service is running on PORT 3003","service":"media-service","timestamp":"2025-05-06T15:45:22.864Z"}
+{"level":"info","message":"connected to Database","service":"media-service","timestamp":"2025-05-06T15:45:25.727Z"}
