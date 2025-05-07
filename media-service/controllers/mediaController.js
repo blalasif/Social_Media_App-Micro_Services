@@ -1,8 +1,9 @@
 const uploadMediaToCloudinary = require("../utils/cloudinary");
 const { logger } = require("../utils/logger");
-
+const Media = require("../models/Media");
 const uploadMedia = async (req, res, next) => {
-  logger.info("Starting media upload");
+  logger.info("Starting media upload", req.file);
+
   try {
     if (!req.file) {
       logger.error("File is required");
@@ -12,9 +13,9 @@ const uploadMedia = async (req, res, next) => {
       });
     }
 
-    const { originalName, mimeType, buffer } = req.file;
+    const { originalname, mimeType, buffer } = req.file;
     const userId = req.user.userId;
-    logger.info(`File details name=${originalName},type=${mimeType}`);
+    logger.info(`File details name=${originalname},type=${mimeType}`);
     logger.info("Uploading to the Cloudinary is starting");
     const cloudinaryUploadResult = await uploadMediaToCloudinary(req.file);
     logger.info(
@@ -22,7 +23,7 @@ const uploadMedia = async (req, res, next) => {
     );
     const newelyCreatedMedia = new Media({
       publicId: cloudinaryUploadResult.public_Id,
-      originalName,
+      originalname,
       mimeType,
       url: cloudinaryUploadResult.secure_url,
       userId,

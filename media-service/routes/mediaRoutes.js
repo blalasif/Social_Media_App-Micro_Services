@@ -7,6 +7,15 @@ const {
 const { logger } = require("../utils/logger");
 
 const router = express();
+
+const attachUser = (req, res, next) => {
+  const userId = req.headers["x-user-id"];
+  if (!userId) {
+    return res.status(401).json({ message: "User ID missing in headers" });
+  }
+  req.user = { userId };
+  next();
+};
 //configure multer
 
 const upload = multer({
@@ -19,6 +28,7 @@ const upload = multer({
 router.post(
   "/upload",
   authenticateRequest,
+  attachUser,
   (req, res, next) => {
     upload(req, res, function (err) {
       if (err instanceof multer.MulterError) {

@@ -526,3 +526,29 @@
 {"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-06T14:37:40.839Z"}
 {"level":"info","message":"Post  service is running on PORT 3002","service":"post-service","timestamp":"2025-05-06T14:52:58.695Z"}
 {"level":"info","message":"connected to Database","service":"post-service","timestamp":"2025-05-06T14:53:00.720Z"}
+{"level":"info","message":"Recieved HEAD request to /ecosystem/undefined","service":"post-service","timestamp":"2025-05-06T15:54:44.461Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-06T15:54:44.465Z"}
+{"level":"info","message":"Recieved HEAD request to /ecosystem/undefined","service":"post-service","timestamp":"2025-05-06T15:54:44.475Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-06T15:54:44.475Z"}
+{"level":"info","message":"Recieved HEAD request to /ecosystem/undefined","service":"post-service","timestamp":"2025-05-06T15:54:51.622Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-06T15:54:51.623Z"}
+{"level":"info","message":"Recieved HEAD request to /ecosystem/undefined","service":"post-service","timestamp":"2025-05-06T15:54:51.628Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-06T15:54:51.630Z"}
+{"level":"info","message":"Recieved HEAD request to /ecosystem/undefined","service":"post-service","timestamp":"2025-05-07T07:24:17.334Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-07T07:24:17.336Z"}
+{"level":"info","message":"Recieved HEAD request to /ecosystem/undefined","service":"post-service","timestamp":"2025-05-07T07:24:17.342Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-07T07:24:17.342Z"}
+{"level":"info","message":"Post  service is running on PORT 3003","service":"post-service","timestamp":"2025-05-07T12:48:26.015Z"}
+{"level":"info","message":"connected to Database","service":"post-service","timestamp":"2025-05-07T12:48:27.327Z"}
+{"level":"info","message":"Post  service is running on PORT 3003","service":"post-service","timestamp":"2025-05-07T12:54:45.164Z"}
+{"level":"info","message":"connected to Database","service":"post-service","timestamp":"2025-05-07T12:54:46.674Z"}
+{"level":"info","message":"Post  service is running on PORT 3003","service":"post-service","timestamp":"2025-05-07T12:55:48.608Z"}
+{"level":"info","message":"connected to Database","service":"post-service","timestamp":"2025-05-07T12:55:50.276Z"}
+{"level":"info","message":"Post  service is running on PORT 3003","service":"post-service","timestamp":"2025-05-07T12:56:08.458Z"}
+{"level":"info","message":"connected to Database","service":"post-service","timestamp":"2025-05-07T12:56:09.868Z"}
+{"level":"info","message":"Post  service is running on PORT 3002","service":"post-service","timestamp":"2025-05-07T13:02:32.868Z"}
+{"level":"info","message":"connected to Database","service":"post-service","timestamp":"2025-05-07T13:02:34.049Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-05-07T13:02:50.270Z"}
+{"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-07T13:02:50.271Z"}
+{"level":"info","message":"Create post endPoint hit","service":"post-service","timestamp":"2025-05-07T13:02:50.272Z"}
+{"level":"info","message":"Post Created Successfully","service":"post-service","timestamp":"2025-05-07T13:02:50.418Z"}

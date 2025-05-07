@@ -5,7 +5,7 @@ const mediaSchema = new mongoose.Schema(
       type: String,
       require: true,
     },
-    originalName: {
+    originalname: {
       type: String,
       require: true,
     },
@@ -26,5 +26,5 @@ const mediaSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-const media = mongoose.model("Media", mediaSchema);
-module.exports = media;
+const Media = mongoose.model("Media", mediaSchema);
+module.exports = Media;
