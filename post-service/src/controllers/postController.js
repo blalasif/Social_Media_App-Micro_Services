@@ -1,5 +1,6 @@
 const Post = require("../models/Post");
 const { logger } = require("../utils/logger");
+const { publishEvent } = require("../utils/rabbitmq");
 const { validateCreatePost } = require("../utils/validation");
 
 async function invalidatePostCach(req, input) {
@@ -117,6 +118,12 @@ const deletePost = async (req, res) => {
       });
     }
 
+    //publish post delete method using Rabbit MQ
+    await publishEvent("post.deleted", {
+      postId: post._id.toString(),
+      userId: req.user.userId,
+      mediaIds: post.mediaIds,
+    });
     await invalidatePostCach(req, req.params.id);
     res.json({
       message: "Post deleted successfully",

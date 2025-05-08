@@ -1,5 +1,5 @@
 const cloudinary = require("cloudinary").v2;
-const logger = require("../utils/logger");
+const { logger } = require("../utils/logger");
 
 cloudinary.config({
   cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
@@ -27,4 +27,14 @@ const uploadMediaToCloudinary = (file) => {
   });
 };
 
-module.exports = uploadMediaToCloudinary;
+const deleteFromCloudinary = async (publicId) => {
+  try {
+    const result = await cloudinary.uploader.destroy(publicId);
+    logger.info("Media Deleted Successfully from Cloudinary", publicId);
+    return result;
+  } catch (error) {
+    logger.error("Error Deleting media from cloudinary", error);
+    throw error;
+  }
+};
+module.exports = { uploadMediaToCloudinary, deleteFromCloudinary };

@@ -8,6 +8,8 @@ const cors = require("cors");
 const { errorHandler } = require("./middleware/errorHandler");
 const { logger } = require("../utils/logger");
 const mediaRoutes = require("../routes/mediaRoutes");
+const { connectRabbitMQ, ConsumeEvent } = require("../utils/rabbitmq");
+const { handlePostDeleted } = require("./eventHandler/media-event-handler");
 const app = express();
 const PORT = process.env.PORT || 3003;
 mongoose
@@ -25,9 +27,21 @@ app.use((req, res, next) => {
 
 app.use("/api/media", mediaRoutes);
 app.use(errorHandler);
-app.listen(PORT, (req, res) => {
-  logger.info(`Media  service is running on PORT ${PORT}`);
-});
+
+async function startServer() {
+  try {
+    await connectRabbitMQ();
+    //consume all the events
+    await ConsumeEvent("post.deleted", handlePostDeleted);
+    app.listen(PORT, (req, res) => {
+      logger.info(`Media  service is running on PORT ${PORT}`);
+    });
+  } catch (error) {
+    logger.error("Failed to connect with RabbitMq server", error);
+    process.exit(1);
+  }
+}
+startServer();
 
 //unhandled promise rejection handler
 

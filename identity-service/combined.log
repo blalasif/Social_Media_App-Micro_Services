@@ -486,3 +486,17 @@
 {"level":"info","message":"Login End Point is hit...","service":"identity-service","timestamp":"2025-05-07T12:53:21.467Z"}
 {"level":"info","message":"Indentity service is running on PORT 3001","service":"identity-service","timestamp":"2025-05-07T13:02:44.374Z"}
 {"level":"info","message":"connected to Database","service":"identity-service","timestamp":"2025-05-07T13:02:45.628Z"}
+{"level":"info","message":"Indentity service is running on PORT 3001","service":"identity-service","timestamp":"2025-05-08T12:11:46.631Z"}
+{"level":"info","message":"connected to Database","service":"identity-service","timestamp":"2025-05-08T12:11:48.391Z"}
+{"level":"info","message":"Recieved POST request to /api/auth/login","service":"identity-service","timestamp":"2025-05-08T13:27:58.741Z"}
+{"level":"info","message":"Request Body [object Object]","service":"identity-service","timestamp":"2025-05-08T13:27:58.743Z"}
+{"level":"info","message":"Login End Point is hit...","service":"identity-service","timestamp":"2025-05-08T13:27:58.763Z"}
+{"level":"info","message":"Recieved POST request to /api/auth/login","service":"identity-service","timestamp":"2025-05-08T14:32:40.939Z"}
+{"level":"info","message":"Request Body [object Object]","service":"identity-service","timestamp":"2025-05-08T14:32:40.941Z"}
+{"level":"info","message":"Login End Point is hit...","service":"identity-service","timestamp":"2025-05-08T14:32:40.943Z"}
+{"level":"info","message":"Recieved POST request to /api/auth/login","service":"identity-service","timestamp":"2025-05-08T14:34:28.888Z"}
+{"level":"info","message":"Request Body [object Object]","service":"identity-service","timestamp":"2025-05-08T14:34:28.889Z"}
+{"level":"info","message":"Login End Point is hit...","service":"identity-service","timestamp":"2025-05-08T14:34:28.891Z"}
+{"level":"info","message":"Recieved POST request to /api/auth/login","service":"identity-service","timestamp":"2025-05-08T14:35:07.152Z"}
+{"level":"info","message":"Request Body [object Object]","service":"identity-service","timestamp":"2025-05-08T14:35:07.153Z"}
+{"level":"info","message":"Login End Point is hit...","service":"identity-service","timestamp":"2025-05-08T14:35:07.154Z"}
