@@ -796,3 +796,13 @@
 {"level":"info","message":"Recieved DELETE request to /api/posts/681ccb7c8a2714fa4d0fe414","service":"post-service","timestamp":"2025-05-08T15:19:41.123Z"}
 {"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-08T15:19:41.123Z"}
 {"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-05-08T15:19:41.244Z"}
+{"level":"info","message":"Recieved GET request to /ecosystem/tokens","service":"post-service","timestamp":"2025-05-09T07:17:58.644Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-09T07:17:58.655Z"}
+{"level":"info","message":"Recieved GET request to /ecosystem/tokens","service":"post-service","timestamp":"2025-05-09T07:18:59.727Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-09T07:18:59.732Z"}
+{"level":"info","message":"Recieved GET request to /ecosystem/tokens","service":"post-service","timestamp":"2025-05-09T07:19:01.549Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-09T07:19:01.551Z"}
+{"level":"info","message":"Recieved GET request to /ecosystem/tokens","service":"post-service","timestamp":"2025-05-09T07:20:05.651Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-09T07:20:05.652Z"}
+{"level":"info","message":"Recieved GET request to /ecosystem/tokens","service":"post-service","timestamp":"2025-05-09T07:20:39.487Z"}
+{"level":"info","message":"Request Body undefined","service":"post-service","timestamp":"2025-05-09T07:20:39.488Z"}

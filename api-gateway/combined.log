@@ -1284,3 +1284,6 @@
 {"level":"info","message":"Request Body undefined","service":"api-gateway","timestamp":"2025-05-08T15:22:42.006Z"}
 {"level":"info","message":"Proxying request to: /api/media/get","service":"api-gateway","timestamp":"2025-05-08T15:22:42.009Z"}
 {"level":"info","message":"Response is recieved for Media service 200","service":"api-gateway","timestamp":"2025-05-08T15:22:42.348Z"}
+{"level":"info","message":"Recieved GET request to /v1/media/get","service":"api-gateway","timestamp":"2025-05-09T07:18:06.560Z"}
+{"level":"info","message":"Request Body undefined","service":"api-gateway","timestamp":"2025-05-09T07:18:06.566Z"}
+{"level":"warn","message":"Invalid token","service":"api-gateway","timestamp":"2025-05-09T07:18:06.580Z"}
