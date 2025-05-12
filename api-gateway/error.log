@@ -53,3 +53,6 @@
 {"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-12T09:44:09.172Z"}
 {"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:44:52.126Z"}
 {"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:46:47.207Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:49:06.009Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T10:11:29.502Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T10:20:44.226Z"}

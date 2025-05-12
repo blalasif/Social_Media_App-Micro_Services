@@ -887,3 +887,20 @@
 {"level":"info","message":"Post Created Successfully","service":"post-service","timestamp":"2025-05-12T10:17:48.169Z"}
 {"level":"info","message":"Recieved GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-05-12T10:17:53.068Z"}
 {"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-12T10:17:53.069Z"}
+{"level":"info","message":"Connected to RabbitMq","service":"post-service","timestamp":"2025-05-12T10:22:26.178Z"}
+{"level":"info","message":"Post  service is running on PORT 3002","service":"post-service","timestamp":"2025-05-12T10:22:26.187Z"}
+{"level":"info","message":"connected to Database","service":"post-service","timestamp":"2025-05-12T10:22:27.644Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-05-12T10:22:39.075Z"}
+{"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-12T10:22:39.075Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-05-12T10:24:12.012Z"}
+{"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-12T10:24:12.013Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-05-12T10:26:38.665Z"}
+{"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-12T10:26:38.666Z"}
+{"level":"info","message":"Create post endPoint hit","service":"post-service","timestamp":"2025-05-12T10:26:38.668Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-05-12T10:26:38.829Z"}
+{"level":"info","message":"Post Created Successfully","service":"post-service","timestamp":"2025-05-12T10:26:38.834Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-05-12T10:27:10.102Z"}
+{"level":"info","message":"Request Body [object Object]","service":"post-service","timestamp":"2025-05-12T10:27:10.103Z"}
+{"level":"info","message":"Create post endPoint hit","service":"post-service","timestamp":"2025-05-12T10:27:10.104Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-05-12T10:27:10.226Z"}
+{"level":"info","message":"Post Created Successfully","service":"post-service","timestamp":"2025-05-12T10:27:10.229Z"}

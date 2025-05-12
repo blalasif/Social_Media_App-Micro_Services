@@ -508,3 +508,6 @@
 {"level":"info","message":"Recieved POST request to /api/auth/login","service":"identity-service","timestamp":"2025-05-12T09:37:13.488Z"}
 {"level":"info","message":"Request Body [object Object]","service":"identity-service","timestamp":"2025-05-12T09:37:13.489Z"}
 {"level":"info","message":"Login End Point is hit...","service":"identity-service","timestamp":"2025-05-12T09:37:13.493Z"}
+{"level":"info","message":"Recieved POST request to /api/auth/login","service":"identity-service","timestamp":"2025-05-12T10:07:46.206Z"}
+{"level":"info","message":"Request Body [object Object]","service":"identity-service","timestamp":"2025-05-12T10:07:46.208Z"}
+{"level":"info","message":"Login End Point is hit...","service":"identity-service","timestamp":"2025-05-12T10:07:46.212Z"}
