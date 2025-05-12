@@ -1287,3 +1287,127 @@
 {"level":"info","message":"Recieved GET request to /v1/media/get","service":"api-gateway","timestamp":"2025-05-09T07:18:06.560Z"}
 {"level":"info","message":"Request Body undefined","service":"api-gateway","timestamp":"2025-05-09T07:18:06.566Z"}
 {"level":"warn","message":"Invalid token","service":"api-gateway","timestamp":"2025-05-09T07:18:06.580Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T08:45:50.918Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T08:45:50.925Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T08:45:50.926Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T08:45:50.927Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T08:45:50.928Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:29:32.067Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:29:32.083Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:29:32.085Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:29:32.089Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:29:32.092Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:29:46.750Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:29:46.762Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:29:46.763Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:29:46.764Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:29:46.765Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:30:02.208Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:30:02.214Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:30:02.215Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:30:02.216Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:30:02.216Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:30:19.950Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:30:19.958Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:30:19.959Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:30:19.961Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:30:19.964Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:30:35.470Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:30:35.476Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:30:35.477Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:30:35.478Z"}
+{"level":"info","message":"Search Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:30:35.478Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:30:35.479Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:30:42.157Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:30:42.165Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:30:42.166Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:30:42.167Z"}
+{"level":"info","message":"Search Service is running on PORT http://localhost:3004","service":"api-gateway","timestamp":"2025-05-12T09:30:42.168Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:30:42.169Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:36:18.015Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:36:18.027Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:36:18.028Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:36:18.030Z"}
+{"level":"info","message":"Search Service is running on PORT http://localhost:3004","service":"api-gateway","timestamp":"2025-05-12T09:36:18.031Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:36:18.032Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-05-12T09:36:22.323Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:36:22.325Z"}
+{"level":"info","message":"Proxying request to: /api/auth/login","service":"api-gateway","timestamp":"2025-05-12T09:36:22.335Z"}
+{"level":"info","message":"Response is recieved for identity service 200","service":"api-gateway","timestamp":"2025-05-12T09:36:23.043Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:36:37.053Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:36:37.054Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:36:37.069Z"}
+{"level":"info","message":"Response is recieved for Post service 404","service":"api-gateway","timestamp":"2025-05-12T09:36:37.255Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:37:02.346Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:37:02.347Z"}
+{"level":"warn","message":"Access attempt without valid token","service":"api-gateway","timestamp":"2025-05-12T09:37:02.348Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-05-12T09:37:13.481Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:37:13.482Z"}
+{"level":"info","message":"Proxying request to: /api/auth/login","service":"api-gateway","timestamp":"2025-05-12T09:37:13.483Z"}
+{"level":"info","message":"Response is recieved for identity service 200","service":"api-gateway","timestamp":"2025-05-12T09:37:13.894Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:37:22.112Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:37:22.113Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:37:22.117Z"}
+{"level":"info","message":"Response is recieved for Post service 404","service":"api-gateway","timestamp":"2025-05-12T09:37:22.213Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:37:42.659Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:37:42.660Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:37:42.664Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:37:42.670Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-05-12T09:38:35.888Z"}
+{"level":"info","message":"Request Body undefined","service":"api-gateway","timestamp":"2025-05-12T09:38:35.889Z"}
+{"level":"info","message":"Proxying request to: /api/media/upload","service":"api-gateway","timestamp":"2025-05-12T09:38:35.892Z"}
+{"level":"info","message":"Response is recieved for Media service 500","service":"api-gateway","timestamp":"2025-05-12T09:38:35.942Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-05-12T09:38:49.314Z"}
+{"level":"info","message":"Request Body undefined","service":"api-gateway","timestamp":"2025-05-12T09:38:49.315Z"}
+{"level":"info","message":"Proxying request to: /api/media/upload","service":"api-gateway","timestamp":"2025-05-12T09:38:49.321Z"}
+{"level":"info","message":"Response is recieved for Media service 201","service":"api-gateway","timestamp":"2025-05-12T09:38:51.746Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:39:00.890Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:39:00.900Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:39:00.916Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:39:00.921Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:39:34.700Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:39:34.700Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:39:34.702Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:39:34.705Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:39:43.691Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:39:43.692Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:39:43.695Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:39:43.698Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:40:21.102Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:40:21.102Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:40:21.104Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:40:21.107Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:41:43.781Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:41:43.782Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:41:43.786Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:41:43.791Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:44:07.581Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:44:07.588Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:44:07.588Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:44:07.589Z"}
+{"level":"info","message":"Search Service is running on PORT http://localhost:3004","service":"api-gateway","timestamp":"2025-05-12T09:44:07.590Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:44:07.590Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:44:09.138Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:44:09.139Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:44:09.152Z"}
+{"level":"error","message":"Proxy Error: AggregateError","service":"api-gateway","timestamp":"2025-05-12T09:44:09.172Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:44:17.853Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:44:17.858Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:44:17.859Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:44:17.860Z"}
+{"level":"info","message":"Search Service is running on PORT http://localhost:3004","service":"api-gateway","timestamp":"2025-05-12T09:44:17.861Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:44:17.861Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:44:52.094Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:44:52.096Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:44:52.107Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:44:52.126Z"}
+{"level":"info","message":"API gateway is running on PORT 2000","service":"api-gateway","timestamp":"2025-05-12T09:46:46.351Z"}
+{"level":"info","message":"Identity Service is running on PORT http://localhost:3001","service":"api-gateway","timestamp":"2025-05-12T09:46:46.358Z"}
+{"level":"info","message":"Post Service is running on PORT http://localhost:3002","service":"api-gateway","timestamp":"2025-05-12T09:46:46.359Z"}
+{"level":"info","message":"Media Service is running on PORT http://localhost:3003","service":"api-gateway","timestamp":"2025-05-12T09:46:46.360Z"}
+{"level":"info","message":"Search Service is running on PORT http://localhost:3004","service":"api-gateway","timestamp":"2025-05-12T09:46:46.360Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-12T09:46:46.361Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:46:47.188Z"}
+{"level":"info","message":"Request Body [object Object]","service":"api-gateway","timestamp":"2025-05-12T09:46:47.189Z"}
+{"level":"info","message":"Proxying request to: /api/posts/create-post","service":"api-gateway","timestamp":"2025-05-12T09:46:47.196Z"}
+{"level":"error","message":"Proxy Error: ","service":"api-gateway","timestamp":"2025-05-12T09:46:47.207Z"}
